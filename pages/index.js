@@ -1,0 +1,7 @@
+export default function Home() {
+  return (
+    <main style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', height: '100vh' }}>
+      <h1>Sua Eu te Amo Punk Docin</h1>
+    </main>
+  );
+}
